@@ -16,3 +16,9 @@ docker exec -it ollama /bin/bash
 ```bash
 ollama pull llama3.1
 ```
+
+## Run
+
+```bash
+python run.py
+```
